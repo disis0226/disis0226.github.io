@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "LeeDongEon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/여수-노을.jpg"
   bio              : "Student learning data and AI"
   location         : "South Korea"
   email            : "disis0226@naver.com"
